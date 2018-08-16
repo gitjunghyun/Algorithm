@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/hangul.exe",
+            "program": "${workspaceFolder}/1000.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
