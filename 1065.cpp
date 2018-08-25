@@ -24,7 +24,7 @@ int num(int num) {
     int h,t,o;
     if(num < 100){
         return 1;
-    }else if(num = 1000){
+    }else if(num == 1000){
         return 0;
     }else{
         h = num/100;
